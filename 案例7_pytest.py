@@ -53,7 +53,7 @@ class Test_seafile:
         Seafile().login(dr)  # 登录
         actual1 = dr.current_activity  # 获取当前的Activity
         expect1 = '.ui.activity.BrowserActivity'  # 设置预期结果
-        # Seafile().zlk_add(dr,zlk_name)  #新增资料库
+        Seafile().zlk_add(dr,zlk_name)  #新增资料库
         time.sleep(5)
         try:
             dr.find_element(AppiumBy.XPATH, f'//*[@text="{zlk_name}"]')
