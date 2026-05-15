@@ -1,0 +1,158 @@
+2026-04-15 10:56:33 [INFO] ✅ 应用启动成功
+2026-04-15 10:58:24 [INFO] ✅ 应用启动成功
+2026-04-15 10:58:26 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/list_item_account_title
+2026-04-15 10:58:48 [INFO] ✅ 应用启动成功
+2026-04-15 10:59:08 [ERROR] ❌ 元素未找到: id=com.seafile.seadroid2:id/list_item_account_title2
+2026-04-15 11:29:48 [INFO] ✅ 应用启动成功
+2026-04-15 11:29:50 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/list_item_account_title
+2026-04-15 11:29:50 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/menu_overflow
+2026-04-15 11:29:52 [INFO] ✅ 点击元素: xpath=//android.widget.TextView[@resource-id="com.seafile.seadroid2:id/title" and @text="新建资料库"]
+2026-04-15 11:29:53 [INFO] ✅ 输入内容: 天青色等烟雨，而我在等你
+2026-04-15 11:29:54 [INFO] ✅ 点击元素: id=android:id/button1
+2026-04-15 11:47:29 [INFO] ✅ 应用启动成功
+2026-04-15 11:47:31 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/list_item_account_title
+2026-04-15 11:47:31 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/menu_overflow
+2026-04-15 11:47:33 [INFO] ✅ 点击元素: xpath=//android.widget.TextView[@resource-id="com.seafile.seadroid2:id/title" and @text="新建资料库"]
+2026-04-15 11:47:34 [INFO] ✅ 输入内容: 最美的不是下雨天，是和你躲过雨的屋檐
+2026-04-15 11:47:35 [INFO] ✅ 点击元素: id=android:id/button1
+2026-04-15 12:00:38 [INFO] ✅ 应用启动成功
+2026-04-15 12:00:39 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/list_item_account_title
+2026-04-15 12:00:40 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/menu_overflow
+2026-04-15 12:00:41 [INFO] ✅ 点击元素: xpath=//android.widget.TextView[@resource-id="com.seafile.seadroid2:id/title" and @text="新建资料库"]
+2026-04-15 12:00:42 [INFO] ✅ 输入内容: PO模型测试资料库
+2026-04-15 12:00:43 [INFO] ✅ 点击元素: id=android:id/button1
+2026-04-15 13:50:24 [INFO] ✅ 应用启动成功
+2026-04-15 13:50:26 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/list_item_account_title
+2026-04-15 13:50:26 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/menu_overflow
+2026-04-15 13:50:28 [INFO] ✅ 点击元素: xpath=//android.widget.TextView[@resource-id="com.seafile.seadroid2:id/title" and @text="新建资料库"]
+2026-04-15 13:51:04 [INFO] ✅ 应用启动成功
+2026-04-15 13:51:06 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/list_item_account_title
+2026-04-15 13:51:06 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/menu_overflow
+2026-04-15 13:51:08 [INFO] ✅ 点击元素: xpath=//android.widget.TextView[@resource-id="com.seafile.seadroid2:id/title" and @text="新建资料库"]
+2026-04-15 13:51:09 [INFO] ✅ 输入内容: 自动化测试2026-04-15 13:50:55
+2026-04-15 13:51:10 [INFO] ✅ 点击元素: id=android:id/button1
+2026-04-15 13:51:35 [ERROR] ❌ 元素未找到: xpath=//*[contains(.,"自动化测试2026-04-15 13:50:55")]
+2026-04-15 13:53:21 [INFO] ✅ 应用启动成功
+2026-04-15 13:53:22 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/list_item_account_title
+2026-04-15 13:53:22 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/menu_overflow
+2026-04-15 13:53:24 [INFO] ✅ 点击元素: xpath=//android.widget.TextView[@resource-id="com.seafile.seadroid2:id/title" and @text="新建资料库"]
+2026-04-15 13:53:25 [INFO] ✅ 输入内容: 自动化测试2026-04-15 13:53:11
+2026-04-15 13:53:26 [INFO] ✅ 点击元素: id=android:id/button1
+2026-04-15 13:53:52 [ERROR] ❌ 元素未找到: xpath=//*[contains(.,"自动化测试2026-04-15 13:53:11")]
+2026-04-15 13:56:57 [INFO] ✅ 应用启动成功
+2026-04-15 13:56:59 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/list_item_account_title
+2026-04-15 13:56:59 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/menu_overflow
+2026-04-15 13:57:01 [INFO] ✅ 点击元素: xpath=//android.widget.TextView[@resource-id="com.seafile.seadroid2:id/title" and @text="新建资料库"]
+2026-04-15 13:57:02 [INFO] ✅ 输入内容: 自动化测试2026-04-15 13:56:48
+2026-04-15 13:57:03 [INFO] ✅ 点击元素: id=android:id/button1
+2026-04-15 14:34:23 [INFO] ✅ 应用启动成功
+2026-04-15 14:34:25 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/list_item_account_title
+2026-04-15 14:34:25 [INFO] ✅ 点击元素: xpath=(//*[contains(@text,"自动化测试2026-04-15 13:56:48")]/../..//android.widget.ImageView)[3]
+2026-04-15 14:58:53 [INFO] ✅ 应用启动成功
+2026-04-15 14:58:54 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/list_item_account_title
+2026-04-15 14:58:54 [INFO] ✅ 点击元素: xpath=(//*[contains(@text,"自动化测试2026-04-15 13:53:11")]/../..//android.widget.ImageView)[3]
+2026-04-15 14:58:56 [INFO] ✅ 点击元素: xpath=//android.widget.TextView[@resource-id="com.seafile.seadroid2:id/bs_list_title" and @text="删除"]
+2026-04-15 14:58:56 [INFO] ✅ 点击元素: id=android:id/button1
+2026-04-15 15:13:03 [INFO] ✅ 应用启动成功
+2026-04-15 15:13:05 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/list_item_account_title
+2026-04-15 15:13:05 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/menu_overflow
+2026-04-15 15:13:07 [INFO] ✅ 点击元素: xpath=//android.widget.TextView[@resource-id="com.seafile.seadroid2:id/title" and @text="新建资料库"]
+2026-04-15 15:13:08 [INFO] ✅ 输入内容: 自动化测试2026-04-15 15:12:54
+2026-04-15 15:13:09 [INFO] ✅ 点击元素: id=android:id/button1
+2026-04-15 15:13:22 [INFO] ✅ 应用启动成功
+2026-04-15 15:13:24 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/list_item_account_title
+2026-04-15 15:13:24 [INFO] ✅ 点击元素: xpath=(//*[contains(@text,"自动化测试2026-04-15 15:12:54")]/../..//android.widget.ImageView)[3]
+2026-04-15 15:13:26 [INFO] ✅ 点击元素: xpath=//android.widget.TextView[@resource-id="com.seafile.seadroid2:id/bs_list_title" and @text="删除"]
+2026-04-15 15:13:26 [INFO] ✅ 点击元素: id=android:id/button1
+2026-04-15 15:13:52 [ERROR] ❌ 元素未找到: xpath=//*[contains(@text,"自动化测试2026-04-15 15:12:54")]
+2026-04-15 16:39:44 [INFO] ✅ 应用启动成功
+2026-04-15 16:39:46 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/list_item_account_title
+2026-04-15 16:39:46 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/menu_overflow
+2026-04-15 16:39:47 [INFO] ✅ 点击元素: xpath=//android.widget.TextView[@resource-id="com.seafile.seadroid2:id/title" and @text="新建资料库"]
+2026-04-15 16:39:49 [INFO] ✅ 输入内容: 自动化测试2026-04-15 16:39:36
+2026-04-15 16:39:49 [INFO] ✅ 点击元素: id=android:id/button1
+2026-04-15 16:40:04 [INFO] ✅ 应用启动成功
+2026-04-15 16:40:05 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/list_item_account_title
+2026-04-15 16:40:05 [INFO] ✅ 点击元素: xpath=(//*[contains(@text,"自动化测试2026-04-15 16:39:36")]/../..//android.widget.ImageView)[3]
+2026-04-15 16:40:07 [INFO] ✅ 点击元素: xpath=//android.widget.TextView[@resource-id="com.seafile.seadroid2:id/bs_list_title" and @text="删除"]
+2026-04-15 16:40:07 [INFO] ✅ 点击元素: id=android:id/button1
+2026-04-15 16:40:33 [ERROR] ❌ 元素未找到: xpath=//*[contains(@text,"自动化测试2026-04-15 16:39:36")]
+2026-04-15 16:41:28 [INFO] ✅ 应用启动成功
+2026-04-15 16:41:29 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/list_item_account_title
+2026-04-15 16:41:30 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/menu_overflow
+2026-04-15 16:41:31 [INFO] ✅ 点击元素: xpath=//android.widget.TextView[@resource-id="com.seafile.seadroid2:id/title" and @text="新建资料库"]
+2026-04-15 16:41:32 [INFO] ✅ 输入内容: 自动化测试2026-04-15 16:41:19
+2026-04-15 16:41:33 [INFO] ✅ 点击元素: id=android:id/button1
+2026-04-15 16:41:59 [ERROR] ❌ 元素未找到: id=com.seafile.seadroid2:id/list_item_account_title
+2026-04-15 16:41:59 [INFO] ✅ 点击元素: xpath=(//*[contains(@text,"自动化测试2026-04-15 16:41:19")]/../..//android.widget.ImageView)[3]
+2026-04-15 16:42:01 [INFO] ✅ 点击元素: xpath=//android.widget.TextView[@resource-id="com.seafile.seadroid2:id/bs_list_title" and @text="删除"]
+2026-04-15 16:42:01 [INFO] ✅ 点击元素: id=android:id/button1
+2026-04-15 16:42:27 [ERROR] ❌ 元素未找到: xpath=//*[contains(@text,"自动化测试2026-04-15 16:41:19")]
+2026-04-15 17:19:42 [INFO] ✅ 应用启动成功
+2026-04-15 17:19:42 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/list_item_account_title
+2026-04-15 17:19:43 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/menu_overflow
+2026-04-15 17:19:45 [INFO] ✅ 点击元素: xpath=//android.widget.TextView[@resource-id="com.seafile.seadroid2:id/title" and @text="新建资料库"]
+2026-04-15 17:19:46 [INFO] ✅ 输入内容: 自动化测试2026-04-15 17:19:33
+2026-04-15 17:19:47 [INFO] ✅ 点击元素: id=android:id/button1
+2026-04-15 17:19:52 [INFO] ✅ 点击元素: xpath=(//*[contains(@text,"自动化测试2026-04-15 17:19:33")]/../..//android.widget.ImageView)[3]
+2026-04-15 17:19:54 [INFO] ✅ 点击元素: xpath=//android.widget.TextView[@resource-id="com.seafile.seadroid2:id/bs_list_title" and @text="删除"]
+2026-04-15 17:19:54 [INFO] ✅ 点击元素: id=android:id/button1
+2026-04-15 17:20:20 [ERROR] ❌ 元素未找到: xpath=//*[contains(@text,"自动化测试2026-04-15 17:19:33")]
+2026-04-17 11:44:00 [INFO] ✅ 应用启动成功
+2026-04-17 11:44:01 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/list_item_account_title
+2026-04-17 11:44:01 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/menu_overflow
+2026-04-17 11:44:03 [INFO] ✅ 点击元素: xpath=//android.widget.TextView[@resource-id="com.seafile.seadroid2:id/title" and @text="新建资料库"]
+2026-04-17 11:44:04 [INFO] ✅ 输入内容: 自动化测试2026-04-17 11:43:47
+2026-04-17 11:44:05 [INFO] ✅ 点击元素: id=android:id/button1
+2026-04-17 11:44:10 [INFO] ✅ 点击元素: xpath=(//*[contains(@text,"自动化测试2026-04-17 11:43:47")]/../..//android.widget.ImageView)[3]
+2026-04-17 11:44:11 [INFO] ✅ 点击元素: xpath=//android.widget.TextView[@resource-id="com.seafile.seadroid2:id/bs_list_title" and @text="删除"]
+2026-04-17 11:44:11 [INFO] ✅ 点击元素: id=android:id/button1
+2026-04-17 11:44:37 [ERROR] ❌ 元素未找到: xpath=//*[contains(@text,"自动化测试2026-04-17 11:43:47")]
+2026-04-17 13:43:14 [INFO] ✅ 应用启动成功
+2026-04-17 13:43:16 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/list_item_account_title
+2026-04-17 13:43:16 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/menu_overflow
+2026-04-17 13:43:18 [INFO] ✅ 点击元素: xpath=//android.widget.TextView[@resource-id="com.seafile.seadroid2:id/title" and @text="新建资料库"]
+2026-04-17 13:43:19 [INFO] ✅ 输入内容: 自动化测试2026-04-17 13:43:07
+2026-04-17 13:43:19 [INFO] ✅ 点击元素: id=android:id/button1
+2026-04-17 13:43:24 [INFO] ✅ 点击元素: xpath=(//*[contains(@text,"自动化测试2026-04-17 13:43:07")]/../..//android.widget.ImageView)[3]
+2026-04-17 13:43:26 [INFO] ✅ 点击元素: xpath=//android.widget.TextView[@resource-id="com.seafile.seadroid2:id/bs_list_title" and @text="删除"]
+2026-04-17 13:43:26 [INFO] ✅ 点击元素: id=android:id/button1
+2026-04-17 13:43:52 [ERROR] ❌ 元素未找到: xpath=//*[contains(@text,"自动化测试2026-04-17 13:43:07")]
+2026-04-17 14:30:05 [INFO] ✅ 应用启动成功
+2026-04-17 14:31:43 [INFO] ✅ 应用启动成功
+2026-04-17 14:40:43 [INFO] ✅ 应用启动成功
+2026-05-13 15:18:57 [INFO] ✅ 应用启动成功
+2026-05-13 15:20:43 [INFO] ✅ 应用启动成功
+2026-05-13 15:21:21 [INFO] ✅ 应用启动成功
+2026-05-13 15:38:21 [INFO] ✅ 应用启动成功
+2026-05-13 16:10:36 [INFO] ✅ 应用启动成功
+2026-05-13 16:12:35 [INFO] ✅ 应用启动成功
+2026-05-13 16:12:57 [INFO] ✅ 应用启动成功
+2026-05-13 16:16:02 [INFO] ✅ 应用启动成功
+2026-05-13 16:16:39 [INFO] ✅ 应用启动成功
+2026-05-13 16:17:14 [INFO] ✅ 应用启动成功
+2026-05-13 16:37:59 [INFO] ✅ 应用启动成功
+2026-05-13 16:41:50 [INFO] ✅ 应用启动成功
+2026-05-13 17:32:08 [INFO] ✅ 应用启动成功
+2026-05-13 17:32:09 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/list_item_account_title
+2026-05-13 17:32:12 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/menu_overflow
+2026-05-13 17:32:14 [INFO] ✅ 点击元素: xpath=//android.widget.TextView[@resource-id="com.seafile.seadroid2:id/title" and @text="新建资料库"]
+2026-05-13 17:32:15 [INFO] ✅ 输入内容: 呀哈哈~再见！
+2026-05-13 17:32:16 [INFO] ✅ 点击元素: id=android:id/button1
+2026-05-13 17:32:46 [INFO] ✅ 应用启动成功
+2026-05-13 17:32:47 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/list_item_account_title
+2026-05-13 17:32:50 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/menu_overflow
+2026-05-13 17:32:52 [INFO] ✅ 点击元素: xpath=//android.widget.TextView[@resource-id="com.seafile.seadroid2:id/title" and @text="新建资料库"]
+2026-05-13 17:32:53 [INFO] ✅ 输入内容: 呀哈哈~再见！
+2026-05-13 17:32:54 [INFO] ✅ 点击元素: id=android:id/button1
+2026-05-13 17:32:57 [INFO] ✅ 点击元素: xpath=(//*[contains(@text,"呀哈哈~再见！")]/../..//android.widget.ImageView)[3]
+2026-05-13 17:32:59 [INFO] ✅ 点击元素: xpath=//android.widget.TextView[@resource-id="com.seafile.seadroid2:id/bs_list_title" and @text="删除"]
+2026-05-13 17:32:59 [INFO] ✅ 点击元素: id=android:id/button1
+2026-05-15 15:17:54 [INFO] ✅ 应用启动成功
+2026-05-15 15:17:56 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/list_item_account_title
+2026-05-15 15:19:12 [INFO] ✅ 应用启动成功
+2026-05-15 15:19:13 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/list_item_account_title
+2026-05-15 15:20:06 [INFO] ✅ 应用启动成功
+2026-05-15 15:20:08 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/list_item_account_title
+2026-05-15 15:20:20 [INFO] ✅ 应用启动成功
+2026-05-15 15:20:22 [INFO] ✅ 点击元素: id=com.seafile.seadroid2:id/list_item_account_title

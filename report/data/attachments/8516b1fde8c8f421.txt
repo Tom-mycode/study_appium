@@ -1,0 +1,2 @@
+INFO     comm.base:base.py:77 ✅ 应用启动成功
+INFO     comm.base:base.py:93 ✅ 点击元素: id=com.seafile.seadroid2:id/list_item_account_title
